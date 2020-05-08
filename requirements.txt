@@ -1,0 +1,7 @@
+tensorflow>=2
+matplotlib
+pandas>=1
+numpy
+boto3
+ipykernel
+librosa
